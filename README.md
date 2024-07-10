@@ -2,6 +2,8 @@
 
 Se trata de un Challenge sobre la gestión y consulta de libros, organizado por Alura Latam y en colaboración con Oracle en el programa ONE para la especialización en Back-End.
 
+![badge literalura](https://github.com/Renzo2O99/Challenge---Conversor-de-Moneda/assets/149314891/3e1c220c-b593-44e4-b3a4-e43309e69aef)
+
 ## Descripción
 
 Este proyecto es un Gestor de Libros desarrollado en Java que te permite buscar libros por título, autores por nombre, listar libros y autores registrados, y obtener estadísticas generales sobre la base de datos de libros. La aplicación interactúa con una API externa para obtener información y utiliza una base de datos local para almacenar y gestionar los datos de libros y autores.
